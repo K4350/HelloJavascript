@@ -34,3 +34,12 @@
 // console.log(`the answer is ${multi(34, 34)}`);
 
 
+// let name = "Kaushik Baruah"
+// let str = "";
+// for(let i = 0; i < name.length; i++){
+//     str[name.length] = name[i];
+//     name.length--;
+// }
+
+// console.log(str);
+

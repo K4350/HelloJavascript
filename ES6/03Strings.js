@@ -6,6 +6,6 @@ let reverseString = name => {
     return str;
 }
 
-let name = prompt("Enter Your name");
+let name = "Kaushik Baruah";
 
 console.log(`The reverse of ${name} is ${reverseString(name)}`);
